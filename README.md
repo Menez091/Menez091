@@ -1,16 +1,39 @@
-## Hi there 👋
+# Olá! 🐾💻
 
-<!--
-**Menez091/Menez091** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Tenho 15 anos, sou apaixonada por gatos e cachorros, sonho em ser veterinaria e atualmente faço curso de programaçaõ!  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Sobre mim
+
+- 🐕 Amo cuidar e aprender sobre gatos e cachorros  
+- 🌟 Quero ser veterinária para ajudar os animais a terem uma vida saudável e feliz  
+- 💻 Estou aprendendo programação para aprender coisas novas, que no futuro possam ajudar os nossos bichinhos!
+
+---
+
+## Meus interesses
+
+- 🩺 Medicina veterinária e cuidados com os pets  
+- 💡 Desenvolvimento de projetos tecnológicos ligados aos animais  
+- 📚 Aprender sempre, misturando ciência e tecnologia  
+- 🐾 Comportamento e bem-estar animal  
+
+---
+
+## Curiosidade rápida
+
+Gatos e cachorros possuem habilidades incríveis!
+
+---
+
+## Vamos nos conectar?
+
+- 🌐 [Seu site ou blog]  
+- 🐦 [Seu Twitter ou Instagram]  
+- ✉️ [Seu email]
+
+---
+
+**“Unindo paixão pelos animais com tecnologia para fazer a diferença.”**
+
