@@ -1,4 +1,4 @@
-# Olá! 🐾💻
+# Olá,me chamo Samira! 🐾💻
 
 Tenho 15 anos, sou apaixonada por gatos e cachorros, sonho em ser veterinaria e atualmente faço curso de programaçaõ! 
 
